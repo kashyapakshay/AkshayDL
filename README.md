@@ -1,1 +1,1 @@
-Code for Deep Learning Independent Study at Union College, winter 2017.
+Code for Deep Learning Independent Study at Union College, Winter 2017.
